@@ -41,12 +41,6 @@ body{
 	padding: 10px 0;
 }
 
-#postagem{
-	background: #fff;
-	padding 10px;
-	margin-bottom: 10px;
-}
-
 h2{
 	color: #b9c941;
 }
@@ -77,6 +71,12 @@ a:active{
 	color: #535353;
 }
 /*Classes*/
+#postagem{
+	background: #fff;
+	padding 10px;
+	margin-bottom: 10px;
+}
+
 .verde{
 	color: #b9c941;
 }
